@@ -13,3 +13,4 @@
 시기:
 중요도:
 조치:
+- index/*.md는 scripts/build_index.py로만 재생성(수정 금지)
